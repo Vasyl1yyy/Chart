@@ -10,6 +10,8 @@ This repository contains a simple chart visualization app built with React, Type
 - Recharts
 - Tailwind CSS
 
+https://chart-eta-gold.vercel.app/
+
 ## 📦 Installation
 
 ```bash

@@ -5,7 +5,7 @@ export default function ChartOne({
   exp,
   metric,
 }: {
-  data: any[];
+  data: any;
   exp?: string;
   metric?: string;
 }) {

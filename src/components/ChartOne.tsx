@@ -66,7 +66,7 @@ export default function ChartOne({
       >
         <XAxis dataKey="step" />
         <YAxis />
-        <Area dataKey="value" stroke="#043111" fill="#1fe25a" />
+        <Area dataKey="value" stroke="#b340ff" fill="#3f0063ff" />
         <Tooltip />
       </AreaChart>
     </div>
